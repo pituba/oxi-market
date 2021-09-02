@@ -1,0 +1,7 @@
+{
+  "name": "oxi-market",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
